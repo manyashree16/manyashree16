@@ -50,7 +50,6 @@ An AI-powered attendance management system using face recognition to automate at
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=manyashree16&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manyashree16&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
