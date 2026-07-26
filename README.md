@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Manyashree</h1>
+<h3 align="center">Artificial Intelligence & Machine Learning Student | Aspiring Software Engineer</h3>
+
 # 💫 About Me:
 About Me<br><br>- 🎓 B.E. in Artificial Intelligence & Machine Learning<br>- 🌱 Currently learning Data Structures, Machine Learning, and Web Development<br>- 💻 Interested in AI, Python, Java, and Full-Stack Development<br>- 🚀 Building real-world projects to improve my problem-solving skills<br><br>Tech Stack<br><br>*Languages:* C, C++, Java, Python<br><br>*Web:* HTML, CSS, JavaScript<br><br>*Database:* MySQL, MongoDB<br><br>*Tools:* Git, GitHub, VS Code<br><br> Featured Projects<br><br>### 🚗 Car Rental System<br>A Java-based application for managing vehicle rentals, customer details, bookings, and payments.<br><br>### 🎮 Multiplayer Game Leaderboard System<br>A C programming project implementing data structures to maintain player rankings and scores efficiently.<br><br>### 🧑‍🎓 Smart Attendance System<br>An AI-powered attendance management system using face recognition to automate attendance tracking and maintain student records.<br><br><br>Connect with Me<br><br>- 📧 *Email:* manyashree161@gmail.com<br>- 💼 *LinkedIn:* https://www.linkedin.com/in/manyashree-s-68976b340<br>
 
