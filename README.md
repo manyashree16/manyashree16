@@ -61,10 +61,13 @@ An AI-powered attendance management system using face recognition to automate at
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manyashree-s-68976b340)
+📧 **Email:** manyashree161@gmail.com
+
+💼 **LinkedIn:** manyashree-s-68976b340
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manyashree-s-68976b340)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manyashree161@gmail.com)
-
 ---
 
 ⭐ **Thanks for visiting my GitHub profile!**
